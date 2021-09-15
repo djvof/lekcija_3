@@ -1,0 +1,7 @@
+C:\LU_C_maciba\lekcija_3\Homework\bin\Debug\Homework.exe.config
+C:\LU_C_maciba\lekcija_3\Homework\bin\Debug\Homework.exe
+C:\LU_C_maciba\lekcija_3\Homework\bin\Debug\Homework.pdb
+C:\LU_C_maciba\lekcija_3\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\LU_C_maciba\lekcija_3\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\LU_C_maciba\lekcija_3\Homework\obj\Debug\Homework.exe
+C:\LU_C_maciba\lekcija_3\Homework\obj\Debug\Homework.pdb

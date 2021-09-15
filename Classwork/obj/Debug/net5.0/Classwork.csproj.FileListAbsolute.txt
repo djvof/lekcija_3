@@ -1,0 +1,16 @@
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\Classwork.csproj.AssemblyReference.cache
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\Classwork.AssemblyInfoInputs.cache
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\Classwork.AssemblyInfo.cs
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\Classwork.csproj.CoreCompileInputs.cache
+C:\LU_C_maciba\lekcija_3\Classwork\bin\Debug\net5.0\Classwork.exe
+C:\LU_C_maciba\lekcija_3\Classwork\bin\Debug\net5.0\Classwork.deps.json
+C:\LU_C_maciba\lekcija_3\Classwork\bin\Debug\net5.0\Classwork.runtimeconfig.json
+C:\LU_C_maciba\lekcija_3\Classwork\bin\Debug\net5.0\Classwork.runtimeconfig.dev.json
+C:\LU_C_maciba\lekcija_3\Classwork\bin\Debug\net5.0\Classwork.dll
+C:\LU_C_maciba\lekcija_3\Classwork\bin\Debug\net5.0\ref\Classwork.dll
+C:\LU_C_maciba\lekcija_3\Classwork\bin\Debug\net5.0\Classwork.pdb
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\Classwork.dll
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\ref\Classwork.dll
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\Classwork.pdb
+C:\LU_C_maciba\lekcija_3\Classwork\obj\Debug\net5.0\Classwork.genruntimeconfig.cache
